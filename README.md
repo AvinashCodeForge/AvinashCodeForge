@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A passionate Software Automation Tester from India</h3>
 
-<img align="right" alt="Testing" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdresma.ai%2Fjobs%2Fqa-automation-engineer-mobile-web-testing%2F&psig=AOvVaw1QbSTdkyY3jKsBkqUCDhvy&ust=1716195824473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiatu2tmYYDFQAAAAAdAAAAABAQ">
+<img align="right" alt="Testing" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashcodeforge&label=Profile%20views&color=0e75b6&style=flat" alt="avinashcodeforge" /> </p>
 
