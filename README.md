@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Fpaveldegterov%2Fengage-in-software-testing-and-test-documentation&psig=AOvVaw1BRCTvZbgaEOj4sUV3Whjw&ust=1716196562612000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCZouOwmYYDFQAAAAAdAAAAABAX)
+![logo](https://github.com/AvinashCodeForge/AvinashCodeForge/blob/main/qa-banner3.png)
 
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A passionate Software Automation Tester from India</h3>
