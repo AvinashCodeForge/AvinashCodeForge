@@ -26,4 +26,4 @@
 
 <img align="left" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*AkuxQjPK2pnKwcbPgVhGzg.gif" >
 
-<img align="left" src="https://www.softwaretestingmaterial.com/wp-content/uploads/2015/12/Software-Testing-Life-Cycle-STLC.png" >
+<img align="right" width="400" src="https://www.softwaretestingmaterial.com/wp-content/uploads/2015/12/Software-Testing-Life-Cycle-STLC.png" >
