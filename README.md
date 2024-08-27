@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **avinash.sv9@gmail.com**
 
-- 📄 Know about my experiences [file:///E:/Downloads/Avinash_Infosys_TestAnalyst.pdf](file:///E:/Downloads/Avinash_Infosys_TestAnalyst.pdf)
+- 📄 Know about my experiences [file:///E:/Downloads/Avinash_Infosys_TestAnalyst.pdf](file:///E:/Downloads/Avinash_Autmation_test_Engineer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
